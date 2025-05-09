@@ -1,1 +1,3 @@
-# steam_halyava_bot
+# СтимХАЛЯВА
+
+бот - @steam_halyava_bot
