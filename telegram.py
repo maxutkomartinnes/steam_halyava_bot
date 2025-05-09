@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler, CallbackContext
 import requests
 
 # Вставь токен от BotFather
-TOKEN = "7777623230:AAH1BqO4q6fPfPzPSd9-RcZOu1oUVsrVvbg"
+TOKEN = "7574703939:AAEeXgj_nasBPz8_ORdYoaDiHtL1S22gt_c"
 
 def start(update: Update, context: CallbackContext):
     update.message.reply_text("Привет! Напиши /free — покажу текущие раздачи игр.")
