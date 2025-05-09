@@ -1,5 +1,4 @@
 
-from telegram.ext import Updater, CommandHandler, CallbackContext
 import requests
 
 # Вставь токен от BotFather
